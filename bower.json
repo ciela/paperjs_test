@@ -1,0 +1,19 @@
+{
+  "name": "paperjs_test",
+  "version": "0.0.0",
+  "authors": [
+    "ciela <zektbach@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/ciela",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper": "~0.9.18"
+  }
+}
